@@ -64,7 +64,8 @@ By using this setup, you agree to the following:
 ---
 
 ## 📜 Credits
+- **Lead Developer** (Michael Lastovich)
 - **Kali Linux Team** (OffSec)
 - **Microsoft WSL Team**
 - **dorssel** (usbipd-win)
-- **Manus AI** (Setup Automation)
+
