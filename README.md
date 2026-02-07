@@ -1,4 +1,11 @@
-# 🐉 Ultimate Kali Linux WSL2 Experience
+# ultimate-kali-wsl-setup
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/Panda1847/ultimate-kali-wsl-setup)](https://github.com/Panda1847/ultimate-kali-wsl-setup/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Panda1847/ultimate-kali-wsl-setup)](https://github.com/Panda1847/ultimate-kali-wsl-setup/network)
+[![GitHub issues](https://img.shields.io/github/issues/Panda1847/ultimate-kali-wsl-setup)](https://github.com/Panda1847/ultimate-kali-wsl-setup/issues)
+[![Language](https://img.shields.io/badge/language-PowerShell-blue.svg)](https://github.com/Panda1847/ultimate-kali-wsl-setup)
+
 
 This package provides a professional-grade setup for running Kali Linux on Windows 11 Pro via WSL2. It is designed to bypass common limitations, enabling **GUI support**, **Hardware Passthrough (USB/WiFi)**, **GPU Acceleration**, and **Mirrored Networking**.
 
